@@ -12,7 +12,7 @@ catergory = st.sidebar.selectbox(
     "Type Of Bussiness",
     ("Automobile", "Electronics", "F & B", "Media", "Real Estate")
 )
-
+print(catergory)
 
 footer="""<style>
 a:link , a:visited{
@@ -41,8 +41,8 @@ text-align: center;
 Project by
 </p>
 <p> 
-<a style='display: ;align: centre; text-align: center;colour: white' href="https://www.linkedin.com/in/arishmit/" target="_blank">Arishmit Ghosh (E20CSE014)</a>
-<a style='display: ; text-align: center;' href="https://www.linkedin.com/in/suyashmatanhelia/" target="_blank">Suyash Matanhelia (E20CSE002) </a>
+<a style='display: ;align: centre; text-align: center;colour: white' href="https://www.linkedin.com/in/arishmit/" target="_blank">Arishmit Ghosh (E20CSE014),         </a>
+<a style='display: ; text-align: center;' href="https://www.linkedin.com/in/suyashmatanhelia/" target="_blank">Suyash Matanhelia (E20CSE002),         </a>
 <a style='display: ; text-align: center;' href="https://www.linkedin.com/in/naman-veer-singh-6ab757189/" target="_blank">Naman Veer Singh (E20CSE464)</a>
 </p>
 </div>
